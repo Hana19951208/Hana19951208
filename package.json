@@ -1,0 +1,7 @@
+{
+  "name": "hana19951208-profile-readme",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  }
+}
