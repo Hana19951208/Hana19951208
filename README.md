@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="./assets/editorial-banner.svg" alt="吴方恩的个人横幅" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
   <img src="./assets/quiet-mascot.svg" alt="安静模式吉祥物" width="132" />
 </div>
 
